@@ -619,8 +619,10 @@ Portal Azure → fn-rh-serverless → Configurações → Configurações do apl
 | `AzureWebJobsStorage` | (connection string do logrhdiolab) |
 | `RhApiBaseUrl` | https://rhdiolab-f9byeseedwh7ckaq.westus2-01.azurewebsites.net |
 
- print do fn-rh-serverless mostrando a function FnProcessarRH ativa
-
+ ![Serviços](/imagens/Print_logic_rh_entrada_MS_Azure_Chrome_2026-06-17_190043.png)
+![Serviços](/imagens/Print_logic_rh_entrada_MS_Azure_Chrome_2026-06-17_192319.png)
+![Serviços](/imagens/Print_logic_rh_entrada_MS_Azure_Chrome_2026-06-17_210137.png)
+![Serviços](/imagens/Print_ms2h_02_study_TECH_Cursos_DIO_git_copilot_2026-06-17_210313.png)
 ---
 
 ## Testando o fluxo
