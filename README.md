@@ -621,7 +621,7 @@ Portal Azure → fn-rh-serverless → Configurações → Configurações do apl
 
  ![Serviços](/imagens/Print_logic_rh_entrada_MS_Azure_Chrome_2026-06-17_190043.png)
 ![Serviços](/imagens/Print_logic_rh_entrada_MS_Azure_Chrome_2026-06-17_192319.png)
-![Serviços](/imagens/Print_logic_rh_entrada_MS_Azure_Chrome_2026-06-17_210137.png)
+![Serviços](/imagens/print_logic_rh_entrada_MS_Azure_Chrome_2026-06-17_210137.png)
 ![Serviços](/imagens/Print_ms2h_02_study_TECH_Cursos_DIO_git_copilot_2026-06-17_210313.png)
 ---
 
