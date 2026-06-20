@@ -143,7 +143,7 @@ Região: West US 2
 | `fn-rh-serverless` | Function App | Azure Function |
 | `logic-rh-entrada` | Logic App | Gatilho HTTP e enfileiramento |
 
-![Recusros](/imagens/azure-functions-app-webjobs-diolab/blob/main/imagens/Print_DIO___Codifique_o_seu_futuro_global_agora___Google_Chrome_2026-06-17_151253.png)
+![Recusros](/imagens/Print_DIO___Codifique_o_seu_futuro_global_agora___Google_Chrome_2026-06-17_151253.png)
 
 
 ---
@@ -685,9 +685,8 @@ print(f'\nTotal: {len(itens)} registros')
 ```
 
 > Onde TipoAcao: 0 = Inclusao | 1 = Atualizacao | 2 = Remocao
-
- print do terminal com a tabela de logs exibida
-
+![RH](/imagens/Print_ms2h_02_study_TECH_Cursos_DIO_git_copilot_2026-06-17_220409.png)
+![RH](/imagens/Print_ms2h_02_study_TECH_Cursos_DIO_git_copilot_2026-06-17_220357.png)
 ### Ver logs no portal
 
 ```
@@ -703,7 +702,6 @@ Portal Azure → logrhdiolab → Navegador de armazenamento → Filas → fila-r
  print da fila vazia — fila vazia = Function processou tudo com sucesso
 
 ---
-
 ![Excluindo tudo:](/imagens/Print_Excluir_recursos_MS_Azure_Chrome_2026-06-17_220502.png)
 __
 
