@@ -427,7 +427,7 @@ Salve — a URL do endpoint é gerada automaticamente. Anote essa URL.
  
  ![Serviços](/imagens/Print_fila_rh_MS_Azure_Chrome_2026-06-17_215548.png)
  
- ![Serviços](/imagens/Print_logrhdiolab_MS_Azure_Chrome_2026-06-17_215720)
+ ![Serviços](/imagens/Print_logrhdiolab_MS_Azure_Chrome_2026-06-17_215720.png)
 
 ---
 
