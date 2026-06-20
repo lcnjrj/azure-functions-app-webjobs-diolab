@@ -355,7 +355,7 @@ dotnet ef database update \
 dotnet run
 # Acesse: http://localhost:5000/swagger
 ```
- print do Swagger mostrando POST
+![Serviços](/imagens/Print_Swagger_UI_Chrome_2026-06-17_213337.png)
 
 ---
 
@@ -617,7 +617,7 @@ Portal Azure → fn-rh-serverless → Configurações → Configurações do apl
 | Nome | Valor |
 |------|-------|
 | `AzureWebJobsStorage` | (connection string do logrhdiolab) |
-| `RhApiBaseUrl` | https://rhdiolab-f9byeseedwh7ckaq.westus2-01.azurewebsites.net |
+| `RhApiBaseUrl` | https://rhdiolab-f9byeseedwh7ckaq.westus2-01.azurewebsites.net | > já excluido
 
  ![Serviços](/imagens/Print_logic_rh_entrada_MS_Azure_Chrome_2026-06-17_190043.png)
 ![Serviços](/imagens/Print_logic_rh_entrada_MS_Azure_Chrome_2026-06-17_192319.png)
@@ -646,7 +646,6 @@ curl -X POST \
 
 Resposta esperada: `HTTP 202 Accepted`
 
-print do terminal com o curl e a resposta 202 Accepted
 
 ### Verificar no histórico do Logic App
 
@@ -654,9 +653,6 @@ print do terminal com o curl e a resposta 202 Accepted
 Portal Azure → logic-rh-entrada → Histórico de Execuções
 ```
 
-print do histórico mostrando execuções com ✅ Êxito
-
-print do detalhe de execução mostrando o gatilho HTTP e a ação de fila em verde
 
 ### Confirmar funcionário salvo via GET
 
@@ -664,7 +660,6 @@ print do detalhe de execução mostrando o gatilho HTTP e a ação de fila em ve
 curl https://rhdiolab-f9byeseedwh7ckaq.westus2-01.azurewebsites.net/Funcionario/1
 ```
 
-print do terminal com a resposta JSON do GET
 
 ---
 
@@ -702,14 +697,13 @@ print(f'\nTotal: {len(itens)} registros')
 ```
 Portal Azure → logrhdiolab → Navegador de armazenamento → Tabelas → FuncionarioLog
 ```
- print da tabela FuncionarioLog com os 18+ registros visíveis
-
+ 
 ### Ver fila (deve estar vazia — sinal de sucesso)
 
 ```
 Portal Azure → logrhdiolab → Navegador de armazenamento → Filas → fila-rh
 ```
- print da fila vazia — fila vazia = Function processou tudo com sucesso
+
 
 ---
 ![Excluindo tudo:](/imagens/Print_Excluir_recursos_MS_Azure_Chrome_2026-06-17_220502.png)
