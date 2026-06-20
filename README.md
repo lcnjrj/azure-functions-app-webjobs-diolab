@@ -143,7 +143,7 @@ Região: West US 2
 | `fn-rh-serverless` | Function App | Azure Function |
 | `logic-rh-entrada` | Logic App | Gatilho HTTP e enfileiramento |
 
-![Recusros](/imagens/Print_DIO___Codifique_o_seu_futuro_global_agora___Google_Chrome_2026-06-17_151253.png)
+![Recusros](/imagens/Print_Resource_Manager_MS_Azure_Chrome_2026-06-17_215206.png)
 
 
 ---
