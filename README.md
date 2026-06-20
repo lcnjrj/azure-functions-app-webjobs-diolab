@@ -12,6 +12,9 @@
 
 ![Desafio](/imagens/Print_DIO___Codifique_o_seu_futuro_global_agora___Google_Chrome_2026-06-17_151253.png)
 ---
+![Desafio](/imagens/Print_Página_inicial_MS_Azure_Chrome_2026-06-17_215235.png)
+---
+
 ## Arquitetura
 
 ```
@@ -419,6 +422,10 @@ Salve — a URL do endpoint é gerada automaticamente. Anote essa URL.
  print do designer mostrando o gatilho HTTP e a ação de fila 
 
  print do campo "URL do HTTP POST" gerado pelo Logic App
+ 
+ ![Serviços](/imagens/
+ ![Serviços](/imagens/Print_fila_rh_MS_Azure_Chrome_2026-06-17_215548.png)
+ ![Serviços](/imagens/
 
 ---
 
@@ -590,9 +597,7 @@ Portal Azure → rhdiolab → Configurações → Variáveis de ambiente → Cad
 | `SAConnectionString` | Custom |
 | `AzureTableName` | Custom |
 
-### 📸 Print 6 — Connection strings configuradas no App Service
-
-> Insira aqui o print das variáveis de ambiente no App Service
+print das variáveis de ambiente no App Service
 
 ### Deploy da Azure Function
 
