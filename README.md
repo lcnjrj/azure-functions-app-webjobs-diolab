@@ -423,9 +423,11 @@ Salve — a URL do endpoint é gerada automaticamente. Anote essa URL.
 
  print do campo "URL do HTTP POST" gerado pelo Logic App
  
- ![Serviços](/imagens/
+ ![Serviços](/imagens/Print_logrhdiolab_MS_Azure_Chrome_2026-06-17_215649.png)
+ 
  ![Serviços](/imagens/Print_fila_rh_MS_Azure_Chrome_2026-06-17_215548.png)
- ![Serviços](/imagens/
+ 
+ ![Serviços](/imagens/Print_logrhdiolab_MS_Azure_Chrome_2026-06-17_215720)
 
 ---
 
